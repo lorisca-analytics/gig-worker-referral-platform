@@ -56,6 +56,18 @@ We handed the bank a pilot recommendation scoped to be defensible:
 
 Open risks at handoff: no named internal owner, partner deal not signed, platform data sharing not agreed (deposit history used as a workaround), and default risk from irregular income (held by conservative loan limits, a 12-month income average and the W-2 as a buffer).
 
+## What this repo contains
+
+This repo is the case file: the problem, the approach, the evidence and a screen-by-screen walkthrough. The working prototype runs live at the link above, with a demo login on its sign-in page. Its source code is kept private.
+
+| Path | What it is |
+|---|---|
+| `README.md` | The case: what was broken, how I approached it, what changed |
+| `evidence.md` | Sources and figures behind every claim |
+| `docs/prototype.md` | Walkthrough of the prototype across all four roles, one screen per step |
+| `assets/screenshots/` | The nine walkthrough screens |
+| `triangle.svg` | The three-way referral exchange diagram |
+
 ## Links
 - Live prototype: https://gig-worker-referral-platform.lovable.app (demo login is shown on the sign-in page)
 - Evidence page: [evidence.md](evidence.md)
