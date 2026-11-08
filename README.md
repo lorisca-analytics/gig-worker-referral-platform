@@ -63,7 +63,7 @@ This repo is the case file: the problem, the approach, the evidence and a screen
 | Path | What it is |
 |---|---|
 | `README.md` | The case: what was broken, how I approached it, what changed |
-| `evidence.md` | Sources and figures behind every claim |
+| `evidence.md` | Sources and figures behind the key claims |
 | `docs/prototype.md` | Walkthrough of the prototype across all four roles, one screen per step |
 | `assets/screenshots/` | The nine walkthrough screens |
 | `triangle.svg` | The three-way referral exchange diagram |
