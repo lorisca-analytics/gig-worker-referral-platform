@@ -2,7 +2,7 @@
 
 [Back to README](../README.md)
 
-I built this prototype so the bank could click through the referral flow instead of reading about it on a slide. It covers the four roles in the pilot: Platform Partner, Gig Worker, Bank Admin and Payments Ops. Every person, partner and number in it is made up, and nothing is stored on a server. The program inside the app is called the Gig Income Referral Pilot, which reads as the bank's own name for it.
+We built this prototype so the bank could click through the referral flow instead of reading about it on a slide. It covers the four roles in the pilot: Platform Partner, Gig Worker, Bank Admin and Payments Ops. Every person, partner and number in it is made up, and nothing is stored on a server. The program inside the app is called the Gig Income Referral Pilot, which reads as the bank's own name for it.
 
 [Open the live prototype](https://gig-worker-referral-platform.lovable.app). The demo login is shown on the sign-in page, and you can switch roles from the menu at the top right.
 
@@ -60,4 +60,4 @@ Opening a referral shows the core of the idea. The side income is checked agains
 
 ![Payments table listing partner rewards as paid, due, overdue or scheduled](../assets/screenshots/09-payments-ops.png)
 
-I built the payout logic into this screen so the cost model is something you can click through. The base reward is only paid after the customer activates. The table also lists the optional guarantor shares, so the team sees everything that is paid, due, overdue and scheduled in one place.
+We built the payout logic into this screen so the cost model is something you can click through. The base reward is only paid after the customer activates. The table also lists the optional guarantor shares, so the team sees everything that is paid, due, overdue and scheduled in one place.
